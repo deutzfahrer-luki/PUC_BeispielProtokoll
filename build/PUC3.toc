@@ -1,0 +1,11 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Lötübung}{2}{section.1}%
+\contentsline {section}{\numberline {2}Protokoll: Fehlfunktion des Schaltungsaufbaus}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Versuchsaufbau:}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Schaltungsaufbau:}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Berechnungen:}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Beobachtung:}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Ursachenanalyse:}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Mögliche Lösung:}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Fazit:}{5}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Literaturverzeichnis}{6}{section.3}%
